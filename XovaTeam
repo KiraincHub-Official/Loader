@@ -1,0 +1,5 @@
+-- If you have more than 1 key, select only 1.
+getgenv().License = "JgVBoOuwhQa9amO978"
+
+getgenv().UUID = "856718169410371614"
+loadstring(game:HttpGet("http://xovascripts.tech:8000/loader/Init"))();
