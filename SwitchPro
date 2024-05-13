@@ -1,0 +1,3 @@
+getgenv().Mode = "Pro" -- "7M" / "V4" / "Capcut" / "Kaitun" / "Pro" 
+script_key="rmCQZwXBChxfJWiChSwzCmvIJriRLSBH";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5d8305a729aa619acf51ae10cd76891d.lua"))()
